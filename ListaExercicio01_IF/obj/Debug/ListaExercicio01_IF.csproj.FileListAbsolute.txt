@@ -1,0 +1,62 @@
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.AssemblyReference.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Form1.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Form2.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Form3.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Form4.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Properties.Resources.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.GenerateResource.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.CoreCompileInputs.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.csproj.AssemblyReference.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.Properties.Resources.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.csproj.GenerateResource.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.csproj.CoreCompileInputs.cache
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\bin\Debug\ListaExercicio01_IF.exe.config
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\bin\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\bin\Debug\ListaExercicio01_IF.pdb
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.Frm01.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.Frm02.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.Frm03.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.Frm04.resources
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 TIMESTRE\Exercicio\ListaExercicio01_IF - Copia\obj\Debug\ListaExercicio01_IF.pdb
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.exe.config
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.pdb
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.AssemblyReference.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm01.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm02.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm03.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm04.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Properties.Resources.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.GenerateResource.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.CoreCompileInputs.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.pdb
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm06.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm07.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm05.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm08.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm09.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.exe.config
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\bin\Debug\ListaExercicio01_IF.pdb
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.AssemblyReference.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.SuggestedBindingRedirects.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm01.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm02.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm03.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm04.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm05.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm06.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm07.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm08.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm09.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Frm10.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.Properties.Resources.resources
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.GenerateResource.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.csproj.CoreCompileInputs.cache
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.exe
+H:\LOGICA_PROGRAMAÇÃO\2 ETAPA\Exercicio\ListaExercicio01_IF\ListaExercicio01_IF\obj\Debug\ListaExercicio01_IF.pdb
